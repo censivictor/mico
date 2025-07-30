@@ -12,7 +12,6 @@
       align-items: center;
       background-image: url('https://greenbond.com.br/wp-content/uploads/2019/08/mico-leao-dourado-02.jpg');
       background-repeat: no-repeat, no-repeat;
-      background-position: left top, right bottom; 
       background-size: contain, contain; 
       min-height: 100vh;
       background-color: #f0f0f0;
@@ -36,7 +35,7 @@
     }
     #timer {
       font-size: 72px;
-      color: #f5f5f5;
+      color: #333;
       font-weight: bold;
       display: flex;
       justify-content: center;
