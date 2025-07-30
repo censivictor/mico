@@ -10,6 +10,10 @@
       display: flex;
       justify-content: center;
       align-items: center;
+      background-image: url('https://greenbond.com.br/wp-content/uploads/2019/08/mico-leao-dourado-02.jpg');
+      background-repeat: no-repeat, no-repeat;
+      background-position: left top, right bottom; 
+      background-size: contain, contain; 
       min-height: 100vh;
       background-color: #f0f0f0;
       font-family: Arial, sans-serif;
@@ -21,10 +25,6 @@
       border-radius: 15px;
       box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
       position: relative;
-      background-image: url('https://greenbond.com.br/wp-content/uploads/2019/08/mico-leao-dourado-02.jpg'), url('https://s2-g1.glbimg.com/FE42LED_Hp4dD_2Pq3XSQz58x1U=/0x0:1536x1026/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/z/r/KBJ91yRBeqk70ASl4TSA/dsc-8918-luiz-thiago-resize-1536x1026.jpg'); 
-      background-repeat: no-repeat, no-repeat;
-      background-position: left top, right bottom; 
-      background-size: contain, contain; 
       min-height: 300px; 
     }
     #title {
