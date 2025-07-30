@@ -36,7 +36,7 @@
     }
     #timer {
       font-size: 72px;
-      color: #333;
+      color: #f5f5f5;
       font-weight: bold;
       display: flex;
       justify-content: center;
